@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: hexagonal-architecture-with-kotlin
+
+  data:
+    mongodb:
+      uri: mongodb://root:password@localhost:27017/todo-list?authSource=admin
