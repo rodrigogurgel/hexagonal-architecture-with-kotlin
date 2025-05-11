@@ -1,1 +1,1 @@
-rootProject.name = "hexagonal-architecture-with-kotlin"
+rootProject.name = "hexagonal-architecture"
